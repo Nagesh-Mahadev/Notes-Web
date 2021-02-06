@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Notes-Web/static/css/main.34f20c99.chunk.css",
+    "main.js": "/Notes-Web/static/js/main.8fc40242.chunk.js",
+    "main.js.map": "/Notes-Web/static/js/main.8fc40242.chunk.js.map",
+    "runtime-main.js": "/Notes-Web/static/js/runtime-main.742c8d9e.js",
+    "runtime-main.js.map": "/Notes-Web/static/js/runtime-main.742c8d9e.js.map",
+    "static/js/2.57631fa4.chunk.js": "/Notes-Web/static/js/2.57631fa4.chunk.js",
+    "static/js/2.57631fa4.chunk.js.map": "/Notes-Web/static/js/2.57631fa4.chunk.js.map",
+    "index.html": "/Notes-Web/index.html",
+    "precache-manifest.d9973fcedbdda27f39cfb9fdd1b48789.js": "/Notes-Web/precache-manifest.d9973fcedbdda27f39cfb9fdd1b48789.js",
+    "service-worker.js": "/Notes-Web/service-worker.js",
+    "static/css/main.34f20c99.chunk.css.map": "/Notes-Web/static/css/main.34f20c99.chunk.css.map",
+    "static/js/2.57631fa4.chunk.js.LICENSE.txt": "/Notes-Web/static/js/2.57631fa4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.742c8d9e.js",
+    "static/js/2.57631fa4.chunk.js",
+    "static/css/main.34f20c99.chunk.css",
+    "static/js/main.8fc40242.chunk.js"
+  ]
+}
